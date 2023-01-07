@@ -25,10 +25,8 @@ a=nv.array([[2,2],[1,3]])
 val,vector=nv.linalg.eig(a)
 print("Eigen values are",val,"and Eigen Vectors are",vector)
 
-
-
 ```
 ## Output:
-
+![eig](output.png)
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python programming
